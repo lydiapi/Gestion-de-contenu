@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Chaud les marrons</title>
+    <link href="https://lydiapi.github.io/Gestion-de-contenu/feed.xml" rel="self" />
+    <link href="https://lydiapi.github.io/Gestion-de-contenu" />
+    <updated>2021-10-28T19:54:14+02:00</updated>
+    <author>
+        <name>Lydia</name>
+    </author>
+    <id>https://lydiapi.github.io/Gestion-de-contenu</id>
+
+    <entry>
+        <title>Premier post!</title>
+        <author>
+            <name>Lydia</name>
+        </author>
+        <link href="https://lydiapi.github.io/Gestion-de-contenu/premier-post.html"/>
+        <id>https://lydiapi.github.io/Gestion-de-contenu/premier-post.html</id>
+
+        <updated>2021-10-28T19:54:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Yay voici le premier post sur Publiiiiiiiii ! Youpi! Super post incroyable n'est-ce pas?!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Yay voici le premier post sur Publiiiiiiiii ! Youpi!<figure class="post__image"><img loading="lazy"  src="https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/body-of-water-286588.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-xs.jpg 300w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-sm.jpg 480w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-md.jpg 768w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-lg.jpg 1024w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-xl.jpg 1360w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-2xl.jpg 1600w"  alt="Wave" width="5680" height="3787"></figure></h2>
+<p>Super post incroyable n'est-ce pas?!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

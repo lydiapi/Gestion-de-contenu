@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chaud les marrons",
+    "description": "",
+    "home_page_url": "https://lydiapi.github.io/Gestion-de-contenu",
+    "feed_url": "https://lydiapi.github.io/Gestion-de-contenu/feed.json",
+    "user_comment": "",
+    "icon": "https://lydiapi.github.io/Gestion-de-contenu/media/website/top-view-photo-of-ocean-3654870.jpg",
+    "author": {
+        "name": "Lydia"
+    },
+    "items": [
+        {
+            "id": "https://lydiapi.github.io/Gestion-de-contenu/premier-post.html",
+            "url": "https://lydiapi.github.io/Gestion-de-contenu/premier-post.html",
+            "title": "Premier post!",
+            "summary": "Yay voici le premier post sur Publiiiiiiiii ! Youpi! Super post incroyable n'est-ce pas?!",
+            "content_html": "<h2>Yay voici le premier post sur Publiiiiiiiii ! Youpi!<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/body-of-water-286588.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-xs.jpg 300w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-sm.jpg 480w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-md.jpg 768w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-lg.jpg 1024w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-xl.jpg 1360w ,https://lydiapi.github.io/Gestion-de-contenu/media/posts/1/responsive/body-of-water-286588-2xl.jpg 1600w\"  alt=\"Wave\" width=\"5680\" height=\"3787\"></figure></h2>\n<p>Super post incroyable n'est-ce pas?!</p>",
+            "author": {
+                "name": "Lydia"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-28T19:54:14+02:00",
+            "date_modified": "2021-10-28T19:54:14+02:00"
+        }
+    ]
+}
